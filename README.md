@@ -1,4 +1,4 @@
-![Banner Users System](Banner.png)
+![Banner Users System](banner.png)
 # Users System (a CRUD example for Python)
 This is a little project to learn how to build a CRUD app with Python and a Postgres DB
 
