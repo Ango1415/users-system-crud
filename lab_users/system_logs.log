@@ -1,0 +1,186 @@
+063358 PM: INFO [menu_app_user.py:10] Starting the User Management Program
+063403 PM: INFO [menu_app_user.py:28] List users
+063403 PM: INFO [user_dao.py:33] List of successfully recovered users.
+063403 PM: INFO [menu_app_user.py:32] 
+            Id user : 1
+            Username: Angel
+            Password: 1234
+        
+063403 PM: INFO [menu_app_user.py:32] 
+            Id user : 2
+            Username: Fabian
+            Password: 4321
+        
+063403 PM: INFO [menu_app_user.py:32] 
+            Id user : 4
+            Username: Maria
+            Password: 1423
+        
+063411 PM: INFO [menu_app_user.py:87] Finalising the user management program
+064451 PM: INFO [menu_app_user.py:10] Starting the User Management Program
+064501 PM: INFO [menu_app_user.py:28] List users
+064501 PM: INFO [user_dao.py:33] List of successfully recovered users.
+064501 PM: INFO [menu_app_user.py:32] 
+            Id user : 1
+            Username: Angel
+            Password: 1234
+        
+064501 PM: INFO [menu_app_user.py:32] 
+            Id user : 2
+            Username: Fabian
+            Password: 4321
+        
+064501 PM: INFO [menu_app_user.py:32] 
+            Id user : 4
+            Username: Maria
+            Password: 1423
+        
+064513 PM: ERROR [menu_app_user.py:24] An exception occurred: invalid literal for int() with base 10: '' , <class 'ValueError'>
+064519 PM: INFO [menu_app_user.py:42] Add users
+064529 PM: INFO [user_dao.py:50] User successfully inserted.
+064529 PM: INFO [user_dao.py:51] User: 
+            Id user : None
+            Username: Julian
+            Password: 6789
+        
+064529 PM: INFO [menu_app_user.py:48] User(s) added: 1
+064535 PM: INFO [menu_app_user.py:57] Update users
+064609 PM: INFO [user_dao.py:69] User successfully updated.
+064609 PM: INFO [user_dao.py:70] User: 
+            Id user : 1
+            Username: Alba
+            Password: 0123
+        
+064609 PM: INFO [menu_app_user.py:64] Updated user(s): 1
+064616 PM: INFO [menu_app_user.py:73] Delete users
+064634 PM: INFO [user_dao.py:88] User successfully deleted.
+064634 PM: INFO [user_dao.py:89] User: 
+            Id user : 5
+            Username: None
+            Password: None
+        
+064634 PM: INFO [menu_app_user.py:78] User(s) deleted: 1
+064640 PM: INFO [menu_app_user.py:28] List users
+064640 PM: INFO [user_dao.py:33] List of successfully recovered users.
+064640 PM: INFO [menu_app_user.py:32] 
+            Id user : 1
+            Username: Alba
+            Password: 0123
+        
+064640 PM: INFO [menu_app_user.py:32] 
+            Id user : 2
+            Username: Fabian
+            Password: 4321
+        
+064640 PM: INFO [menu_app_user.py:32] 
+            Id user : 4
+            Username: Maria
+            Password: 1423
+        
+064646 PM: INFO [menu_app_user.py:87] Finalising the user management program
+065102 PM: INFO [menu_app_user.py:10] Starting the User Management Program
+065111 PM: INFO [menu_app_user.py:28] List users
+065111 PM: INFO [user_dao.py:33] List of successfully recovered users.
+065111 PM: INFO [menu_app_user.py:32] 
+            Id user : 1
+            Username: Alba
+            Password: 0123
+        
+065111 PM: INFO [menu_app_user.py:32] 
+            Id user : 2
+            Username: Fabian
+            Password: 4321
+        
+065111 PM: INFO [menu_app_user.py:32] 
+            Id user : 3
+            Username: Maria
+            Password: 1423
+        
+065121 PM: ERROR [menu_app_user.py:24] An exception occurred: invalid literal for int() with base 10: '' , <class 'ValueError'>
+065128 PM: INFO [menu_app_user.py:42] Add users
+065143 PM: INFO [user_dao.py:50] User successfully inserted.
+065143 PM: INFO [user_dao.py:51] User: 
+            Id user : None
+            Username: Hector
+            Password: 0192
+        
+065143 PM: INFO [menu_app_user.py:48] User(s) added: 1
+065152 PM: INFO [menu_app_user.py:28] List users
+065152 PM: INFO [user_dao.py:33] List of successfully recovered users.
+065152 PM: INFO [menu_app_user.py:32] 
+            Id user : 1
+            Username: Alba
+            Password: 0123
+        
+065152 PM: INFO [menu_app_user.py:32] 
+            Id user : 2
+            Username: Fabian
+            Password: 4321
+        
+065152 PM: INFO [menu_app_user.py:32] 
+            Id user : 3
+            Username: Maria
+            Password: 1423
+        
+065152 PM: INFO [menu_app_user.py:32] 
+            Id user : 6
+            Username: Hector
+            Password: 0192
+        
+065203 PM: INFO [menu_app_user.py:57] Update users
+065219 PM: INFO [user_dao.py:69] User successfully updated.
+065219 PM: INFO [user_dao.py:70] User: 
+            Id user : 1
+            Username: Angel
+            Password: 1234
+        
+065219 PM: INFO [menu_app_user.py:64] Updated user(s): 1
+065222 PM: INFO [menu_app_user.py:28] List users
+065222 PM: INFO [user_dao.py:33] List of successfully recovered users.
+065222 PM: INFO [menu_app_user.py:32] 
+            Id user : 1
+            Username: Angel
+            Password: 1234
+        
+065222 PM: INFO [menu_app_user.py:32] 
+            Id user : 2
+            Username: Fabian
+            Password: 4321
+        
+065222 PM: INFO [menu_app_user.py:32] 
+            Id user : 3
+            Username: Maria
+            Password: 1423
+        
+065222 PM: INFO [menu_app_user.py:32] 
+            Id user : 6
+            Username: Hector
+            Password: 0192
+        
+065230 PM: ERROR [menu_app_user.py:24] An exception occurred: invalid literal for int() with base 10: '' , <class 'ValueError'>
+065234 PM: INFO [menu_app_user.py:73] Delete users
+065240 PM: INFO [user_dao.py:88] User successfully deleted.
+065240 PM: INFO [user_dao.py:89] User: 
+            Id user : 6
+            Username: None
+            Password: None
+        
+065240 PM: INFO [menu_app_user.py:78] User(s) deleted: 1
+065244 PM: INFO [menu_app_user.py:28] List users
+065244 PM: INFO [user_dao.py:33] List of successfully recovered users.
+065244 PM: INFO [menu_app_user.py:32] 
+            Id user : 1
+            Username: Angel
+            Password: 1234
+        
+065244 PM: INFO [menu_app_user.py:32] 
+            Id user : 2
+            Username: Fabian
+            Password: 4321
+        
+065244 PM: INFO [menu_app_user.py:32] 
+            Id user : 3
+            Username: Maria
+            Password: 1423
+        
+065252 PM: INFO [menu_app_user.py:87] Finalising the user management program
