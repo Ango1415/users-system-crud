@@ -4,6 +4,7 @@ This is a little project to learn how to build a CRUD app with Python and a Post
 
 Technologies:
 - I worked with the library [psycopg2](https://www.psycopg.org/), for its installation you have to use the line *_pip install psycopg2_*
+- As the base language program I used Python 3.9
 
 How to run:
 - To run the project you have to execute the script called *menu_app__user.py* (user-system-crud/lab_users/menu_app_user.py)
